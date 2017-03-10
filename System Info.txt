@@ -1,0 +1,12 @@
+############################## Rally #####################
+URL : http://us1.rallydev.com/
+User : prakash.tiwary@opshub.com, syncuser@opshub.com
+Password : opshubv2
+
+
+URL : http://us1.rallydev.com/
+User : prakash.tiwary@opshub.com, syncuser@opshub.com
+Password : opshubv2
+
+
+
